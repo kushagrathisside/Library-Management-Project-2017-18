@@ -3,3 +3,6 @@
 ### Session: 2017-18
 
 Language C++
+This project is about management of library system.
+
+
